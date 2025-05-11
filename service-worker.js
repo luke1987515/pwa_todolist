@@ -5,7 +5,7 @@ const staticAssets = [
     'style.css',
     'script.js',
     'manifest.json',
-    'icon-192x192.png' // 確保包含你的主要圖示
+    'icon-144x144.png' // 確保包含你的主要圖示
 ];
 
 self.addEventListener('install', async event => {
